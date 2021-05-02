@@ -66,7 +66,7 @@ function renderNotesList(notes) {
   function renderLander() {
     return (
       <div className="lander">
-        <h1>Scratch</h1>
+        <h1>Merv App</h1>
         <p className="text-muted">My simple note app</p>
       </div>
     );
